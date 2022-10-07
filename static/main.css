@@ -158,3 +158,94 @@ a:hover {
 
     color: #000000;
 }
+
+.content_box1 {
+    position: absolute;
+    width: 1039px;
+    height: 301px;
+    left: 400px;
+    top: 754px;
+    /* background-color:aqua; */
+}
+.arrow_box {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: transparent;
+    border: 0;
+    top: calc(50% - 50px) 
+}
+
+
+.svg-strelka {
+    
+    
+    fill: #8DC63F;
+}
+.strelka-left-2 {
+    left: 10px;
+    top: 20px;
+    width: 100px;
+    height: 100px;
+    transform: rotate(180deg);
+}
+.strelka-right-2 {
+    left: 7px;
+    top: 20px;
+    width: 100px;
+    height: 100px;
+    
+}
+
+.img_slids {
+    /* position:absolute; */
+    width: 300px;
+    height: 300px;
+    float: left;
+    display: block;
+    background-color: #8DC63F;
+    margin-right: 48px;
+}
+
+.img100 {
+    width: 100%;
+    height: 100%;
+}
+
+.header1 {
+    position: absolute;
+    text-align: center;
+    width: 400px;
+    height: 55px;
+    left: 728px;
+    top: 1150px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 37px;
+
+    color: #000000;
+}
+
+.content_box2 {
+    position: absolute;
+    width: 995px;
+    height: 675px;
+    left: 420px;
+    top: 1236px;
+    background-color: aqua;
+}
+
+.advantages {
+    /* position: absolute; */
+    display: block;
+    width: 289px;
+    height: 294px;
+    margin-right: 64px;
+    margin-bottom: 80px;
+    /* margin-left: 69px; */
+    background-color: #8DC63F;
+    float: left;
+}
